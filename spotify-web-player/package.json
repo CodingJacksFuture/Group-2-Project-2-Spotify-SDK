@@ -1,40 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "spotify-web-player",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "server": "nodemon server",
-    "dev": "run-p server start"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "axios": "^1.7.7",
-    "dotenv": "^16.4.5",
-    "express": "^4.21.1",
-    "npm-run-all": "^4.1.5",
-    "request": "^2.88.2"
-  }
-=======
 	"name": "spotify-web-player",
 	"version": "0.1.0",
 	"private": true,
@@ -69,5 +33,4 @@
 		"npm-run-all": "^4.1.5",
 		"request": "^2.88.2"
 	}
->>>>>>> 94f9b4ac51a2db9bd21d779887f45cd15da9ba2a
 }
