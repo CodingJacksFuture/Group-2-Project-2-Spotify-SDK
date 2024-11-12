@@ -1,1 +1,5 @@
 .env
+node_modules
+spotify-web-player/.env
+spotify-web-player/package-lock.json
+package-lock.json
